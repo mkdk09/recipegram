@@ -1,24 +1,27 @@
-# README
+# recipegram
+インスタグラムのように料理の写真をアップして
+レシピを共有するWebサービス
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## デモ(DEMO)
 
-Things you may want to cover:
+## 機能(Features)
 
-* Ruby version
+## 使い方(Usage)
 
-* System dependencies
+## 環境(Requirement)
+* Ruby 2.5.7
+* Rails 5.2.4.1
 
-* Configuration
+## インストール(Installation)
 
-* Database creation
+## 注意事項(Note)
 
-* Database initialization
+## 文責(Author)
+* mkdk09
+* mkdk099@gmail.com
 
-* How to run the test suite
+## ライセンス
+This code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 参考文献(References)
+* [【プログラミング入門】Ruby on Rails でウェブアプリを作ってみよう ~ PART 2（実装①）~ Let's build with Ruby on Rails - YouTube](https://www.youtube.com/watch?v=uos2mowBrJA)
